@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> WELCOM everyone for April and May DevOps Batch!!!!!!!!</h2>
+	<h2> WELCOM to moralix for April and May DevOps Batch!!!!!!!!</h2>
   
 </body>
 </html>
